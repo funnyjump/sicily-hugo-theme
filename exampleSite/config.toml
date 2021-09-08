@@ -74,9 +74,9 @@ rol_email = "mateojosedulfo@Sicily.com"
 rol_name = "Bussines Director"
 rol_representative = "Mateo Josedulfo"
 [[params.social]]
-icon = "ti-facebook"
+icon = "ti-instagram"
 link = "#"
-title = "facebook"
+title = "instagram"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "https://twitter.com/cristianmarint"
