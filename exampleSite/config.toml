@@ -14,9 +14,6 @@ product = []
 [[menu.company]]
 URL = "about-us"
 name = "About Us"
-[[menu.company]]
-URL = "quick-start"
-name = "Quick Start"
 [[menu.main]]
 URL = "blog"
 name = "WORKS"
