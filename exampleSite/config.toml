@@ -9,6 +9,8 @@ theme = "Sicily-hugo-theme"
 title = "FUNBOHE"
 [markup.goldmark.renderer]
 unsafe = true
+[menu]
+product = []
 [[menu.company]]
 URL = "about-us"
 name = "About Us"
@@ -19,12 +21,6 @@ name = "Quick Start"
 URL = "blog"
 name = "WORKS"
 weight = 1
-[[menu.product]]
-URL = "platform"
-name = "Platform"
-[[menu.product]]
-URL = "privacy-policy"
-name = "Privacy Policy"
 [params]
 author = "FUNBOHE"
 contact_form_action = "#"
