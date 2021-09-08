@@ -34,7 +34,7 @@ country = "Colombia"
 email = "contact@sicily.com"
 phone = "+57 315 270 2727"
 [params.navigation_button]
-enable = true
+enable = false
 label = "Get it touch"
 link = "contact"
 [[params.plugins.css]]
