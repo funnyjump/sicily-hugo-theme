@@ -9,13 +9,17 @@ theme = "Sicily-hugo-theme"
 title = "FUNBOHE"
 [markup.goldmark.renderer]
 unsafe = true
+[menu]
+product = []
 [[menu.company]]
 URL = "about-us"
 name = "About Us"
-weight = 1
+[[menu.company]]
+URL = "quick-start"
+name = "Quick Start"
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "WORKS"
 weight = 1
 [params]
 author = "FUNBOHE"
@@ -54,14 +58,6 @@ preloader = ""
 rol_email = "pedropiedras@sicily.com"
 rol_name = "Creative Director"
 rol_representative = "Pedro Pidras"
-[[params.footer]]
-rol_email = "juanrisas@sicily.com"
-rol_name = "Chief executive officer"
-rol_representative = "Juan Risas"
-[[params.footer]]
-rol_email = "mateojosedulfo@Sicily.com"
-rol_name = "Bussines Director"
-rol_representative = "Mateo Josedulfo"
 [[params.social]]
 icon = "ti-instagram"
 link = "#"
