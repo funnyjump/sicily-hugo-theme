@@ -22,6 +22,7 @@ weight = 1
 author = "FUNBOHE"
 contact_form_action = "#"
 description = "This is meta description"
+footer = []
 logo = "images/logo.png"
 logo_width = "200px"
 [params.company]
@@ -51,10 +52,6 @@ link = "plugins/slick/slick.min.js"
 [params.preloader]
 enable = false
 preloader = ""
-[[params.footer]]
-rol_email = "pedropiedras@sicily.com"
-rol_name = "Creative Director"
-rol_representative = "Pedro Pidras"
 [[params.social]]
 icon = "ti-instagram"
 link = "#"
