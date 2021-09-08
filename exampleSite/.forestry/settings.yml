@@ -35,18 +35,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/faq
-  label: FAQ
-  create: documents
-  match: "**/*"
-- type: directory
   path: exampleSite/content/platform
   label: Platform
-  create: documents
-  match: "**/*"
-- type: directory
-  path: exampleSite/content/pricing
-  label: Pricing
   create: documents
   match: "**/*"
 - type: directory
