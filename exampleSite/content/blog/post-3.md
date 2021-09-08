@@ -1,17 +1,11 @@
 ---
-title: "screens with built in Present and Dismiss animations."
-date: 2020-04-18T10:07:21+06:00
-# post image
-image: "https://dr.savee-cdn.com/things/5/f/7a8529b7f0bd1b9a58d271.jpg"
-# post type (regular/featured)
-type: "regular"
-# meta description
-description: "This is meta description"
-# post draft
-draft: false
+title: screens
+date: 2020-04-18T10:07:21.000+06:00
+image: https://dr.savee-cdn.com/things/5/f/7a8529b7f0bd1b9a58d271.jpg
+type: regular
+description: This is meta description
+
 ---
-
-
 #### Heading example
 
 Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
