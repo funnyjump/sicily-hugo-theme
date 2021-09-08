@@ -9,14 +9,13 @@ theme = "Sicily-hugo-theme"
 title = "FUNBOHE"
 [markup.goldmark.renderer]
 unsafe = true
-[menu]
-product = []
 [[menu.company]]
 URL = "about-us"
-name = "About Us"
+name = "About"
+weight = 1
 [[menu.main]]
 URL = "blog"
-name = "WORKS"
+name = "Blog"
 weight = 1
 [params]
 author = "FUNBOHE"
