@@ -1,5 +1,5 @@
 ---
-title: web-based
+title: CRM
 date: 2020-04-18T10:07:21.000+06:00
 image: https://dr.savee-cdn.com/things/5/f/7a84bebc95041b5751ee07.jpg
 type: regular
