@@ -29,16 +29,6 @@ sections:
   label: About us
   create: documents
   match: "**/*"
-- type: directory
-  path: exampleSite/content/quick-start
-  label: Quick start
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/content/terms-conditions
-  label: Term & conditions
-  create: none
-  match: "*"
 - type: heading
   label: All Pages
 - type: directory
