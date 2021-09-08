@@ -29,7 +29,7 @@ name = "Platform"
 URL = "privacy-policy"
 name = "Privacy Policy"
 [params]
-author = "cristianmarint"
+author = "FUNBOHE"
 contact_form_action = "#"
 description = "This is meta description"
 logo = "images/logo.png"
