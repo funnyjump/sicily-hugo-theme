@@ -1,7 +1,6 @@
 ---
-title: "Our stories"
-subtitle: ""
-# meta description
-description: "Stories worth reading"
-draft: false
+title: WORKS
+subtitle: ''
+description: Stories worth reading
+
 ---
