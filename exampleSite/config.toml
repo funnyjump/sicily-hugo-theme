@@ -15,7 +15,7 @@ name = "About"
 weight = 1
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "WORKS"
 weight = 1
 [params]
 author = "FUNBOHE"
