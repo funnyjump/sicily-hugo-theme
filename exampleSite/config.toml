@@ -20,7 +20,7 @@ URL = "terms-conditions"
 name = "Terms & Conditions"
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "WORKS"
 weight = 1
 [[menu.product]]
 URL = "platform"
