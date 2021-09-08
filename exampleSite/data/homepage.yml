@@ -4,7 +4,7 @@ banner:
   image: images/banner-art.jpg
   copyright: Copyright @ 2021 Funbohe Design
   button:
-    enable: true
+    enable: false
     label: Pricing
     link: "/pricing/"
 description:
